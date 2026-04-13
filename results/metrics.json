@@ -1,0 +1,22 @@
+{
+  "dataset_rows": 100,
+  "train_rows": 80,
+  "test_rows": 20,
+  "models": {
+    "Naive Bayes": {
+      "precision_macro": 0.9583,
+      "recall_macro": 0.9524,
+      "f1_macro": 0.9521
+    },
+    "SVM": {
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0
+    },
+    "Logistic Regression": {
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0
+    }
+  }
+}
