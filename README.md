@@ -33,13 +33,8 @@ python main.py
 | SVM | 1.0000 | 1.0000 |
 | Logistic Regression | 1.0000 | 1.0000 |
 
-## Suggested 3 commits
-1. **Commit 1:** Add dataset, notebook, preprocessing, and baseline training code.
-2. **Commit 2:** Add evaluation, plots, metrics export, and model comparison.
-3. **Commit 3:** Add README, final report PDF, and polish the repository structure.
-
 ## Student details
-- Name: __________________
-- Roll No: __________________
-- UIN: __________________
+- Name: Ansari Mohd Owais
+- Roll No: 09
+- UIN: 231A057
 - Year: TE-AIDS
